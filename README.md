@@ -1,4 +1,4 @@
-# Modelowanie_Przeplywu
+# Modelowanie Przeplywu
 
 - [x] **Obsługa błędów (terminale Failure, Catch, node TryCatch, node Throw)**
 
@@ -34,9 +34,3 @@
   - **Sprawdzanie włąsciwości BAR. ->** mqsireadbar [-b  | -r  | -v] 
 
 
-
-## UML diagrams
-
-You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
-
-`
