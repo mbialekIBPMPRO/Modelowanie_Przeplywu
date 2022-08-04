@@ -33,4 +33,13 @@
   - **Deploy ->** mqsideploy -p 7601 -e default -a C:\Users\Szef\IBM\ACET12\workspace\BARfiles\mynewbarfile.bar
   - **Sprawdzanie włąsciwości BAR. ->** mqsireadbar [-b  | -r  | -v] 
 
-
+![](ss_console/ss_2.JPG)
+![](ss_console/ss_3.JPG)
+![](ss_console/ss_4.JPG)
+![](ss_console/ss_5.JPG)
+![](ss_console/ss_6.JPG)
+![](ss_console/ss_7.JPG)
+![](ss_console/ss_8.JPG)
+![](ss_console/ss_9.JPG)
+![](ss_console/ss_10.JPG)
+![](ss_console/ss_11.JPG)
