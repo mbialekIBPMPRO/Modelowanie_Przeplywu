@@ -10,7 +10,7 @@
 
 >Wykorzystanie node Trace (do logowania)
 
-- [x] Wysyłanie danych w nagłówkach HTTP
+- [x] **Wysyłanie danych w nagłówkach HTTP**
 
 >Operacje SELECT w ESQL
 
@@ -24,12 +24,12 @@
 
 ### **Polecenia wykorzystane przeze mnie w konsoli:**
   - **Utworzenie węzła ->** mqsicreatebrokeR TEST_NODE
-  -  **sprawdzanie węzła ->** mqsicvp TEST_NODE
+  - **sprawdzanie węzła ->** mqsicvp TEST_NODE
   - **Ustawienie portu administratora ->**  mqsichangeproperties TEST_NODE -b webadmin -o HTTPConnector -n port -v 7602
   - **Uruchomienie węzła ->**  mqsistart TEST_NODE
-  -  **Wyświetlanie listy wszystkich węzłów ->**  mqsilist
+  - **Wyświetlanie listy wszystkich węzłów ->**  mqsilist
   - **Utworzenie serwer w węźle ->** mqsicreateexecutiongroup TEST_NODE  -e default -w 90
-  -  **utworzenie pliku BAR. ->** mqsipackagebar -w C:\Users\Szef\IBM\ACET12\workspace -a mynewbarfile -k Praca_domowa_obsluga_bledow -y xsd_Lib
+  - **utworzenie pliku BAR. ->** mqsipackagebar -w C:\Users\Szef\IBM\ACET12\workspace -a mynewbarfile -k Praca_domowa_obsluga_bledow -y xsd_Lib
   - **Deploy ->** mqsideploy -p 7602 -e default -a newTestFielBar.bar
   - **Sprawdzanie włąsciwości BAR. ->** mqsireadbar [-b  | -r  | -v] 
 
