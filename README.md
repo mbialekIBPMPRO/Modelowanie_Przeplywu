@@ -1,24 +1,22 @@
 # Modelowanie Przeplywu
+| TEAMTY ZAWARTE W PLIKU W REPOZYTORIUM | 
+| ------ |
+| **Obsługa błędów (terminale Failure, Catch, node TryCatch, node Throw)** |
+| **Long-lived variables (SHARED)** | 
+| **Wysyłanie danych w nagłówkach HTTP** |
+| Wykorzystanie node Trace (do logowania) |
 
-- [x] **Obsługa błędów (terminale Failure, Catch, node TryCatch, node Throw)**
+| TEAMTY ZAWARTE W README |
+| ------ |
+| **User Defined Property** |
+| [**Obsługa Integration Servera w konsoli (sprawdzanie listy serwerów, startowanie i stopowanie serwera, deployment bar, zmiana   propertisów w bar)**](#Obsługa-Integration-Servera-w-konsoli) |
 
-- [x] **Long-lived variables (SHARED)**
-
-- [x] **User Defined Property** 
-
->Promote Property
-
->Wykorzystanie node Trace (do logowania)
-
-- [x] **Wysyłanie danych w nagłówkach HTTP**
-
->Operacje SELECT w ESQL
-
->Callable Flows
-   
-- [x] [**Obsługa Integration Servera w konsoli (sprawdzanie listy serwerów, startowanie i stopowanie serwera, deployment bar, zmiana   propertisów w bar)**](#Obsługa-Integration-Servera-w-konsoli)
-
->Działanie parserów XMLNSC i JSON
+| TEAMTY DO ZREALIZOWANIA |
+| ------ |
+| Promote Property |
+| Operacje SELECT w ESQL |
+| Callable Flows |
+| Działanie parserów XMLNSC i JSON |
 
 # Obsługa Integration Servera w konsoli
 
