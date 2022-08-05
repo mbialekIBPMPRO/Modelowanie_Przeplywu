@@ -43,7 +43,7 @@
 ![](ss_console/ss_10.JPG)
 ![](ss_console/ss_11.JPG)
 
-[Początek Pliku -^](#Modelowanie-Przeplywu)
+[**^- Początek Pliku -^**](#modelowanie-przeplywu)
 
 # User Defined Property (UDP)
 ![](UDP/ss_1.JPG)
