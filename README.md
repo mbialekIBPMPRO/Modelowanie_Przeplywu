@@ -11,11 +11,12 @@
 | TEAMTY ZAWARTE W README |
 | ------ |
 | [**User Defined Property**](#user-defined-property-udp) |
+| [**Promote Property**](#promote-property) | 
 | [**Obsługa Integration Servera w konsoli (sprawdzanie listy serwerów, startowanie i stopowanie serwera, deployment bar, zmiana   propertisów w bar)**](#obsługa-integration-servera-w-konsoli) |
+
 
 | TEAMTY DO ZREALIZOWANIA |
 | ------ |
-| Promote Property | 
 | Operacje SELECT w ESQL |
 | Działanie parserów XMLNSC i JSON |
 
@@ -53,5 +54,5 @@
 [**^- Początek Pliku -^**](#modelowanie-przeplywu)
 
 # Promote Property
-
+![](PromoteProperty/ss_1.JPG)
 [**^- Początek Pliku -^**](#modelowanie-przeplywu)
