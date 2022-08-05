@@ -1,5 +1,5 @@
 # Modelowanie Przeplywu
-| [TEAMTY ZAWARTE Z PLIKU W REPOZYTORIUM](https://github.com/mbialekIBPMPRO/Modelowanie_Przeplywu/raw/demo/ModelowaniePrzeplywu.zip) | 
+| [TEAMTY ZAWARTE Z PLIKU W REPOZYTORIUM](https://github.com/mbialekIBPMPRO/Modelowanie_Przeplywu/tree/demo) [(pobierz)](https://github.com/mbialekIBPMPRO/Modelowanie_Przeplywu/raw/demo/ModelowaniePrzeplywu.zip) | 
 | ------ |
 | **Obsługa błędów (terminale Failure, Catch, node TryCatch, node Throw)** |
 | **Long-lived variables (SHARED)** | 
