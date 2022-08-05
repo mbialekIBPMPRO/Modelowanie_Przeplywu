@@ -10,7 +10,7 @@
 
 >Wykorzystanie node Trace (do logowania)
 
->Wysyłanie danych w nagłówkach HTTP
+- [x] Wysyłanie danych w nagłówkach HTTP
 
 >Operacje SELECT w ESQL
 
