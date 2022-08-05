@@ -4,12 +4,13 @@
 | **Obsługa błędów (terminale Failure, Catch, node TryCatch, node Throw)** |
 | **Long-lived variables (SHARED)** | 
 | **Wysyłanie danych w nagłówkach HTTP** |
+| **User Defined Property** |
 | Wykorzystanie node Trace (do logowania) |
 
 | TEAMTY ZAWARTE W README |
 | ------ |
 | [**User Defined Property**](#user-defined-property-udp) |
-| [**Obsługa Integration Servera w konsoli (sprawdzanie listy serwerów, startowanie i stopowanie serwera, deployment bar, zmiana   propertisów w bar)**](#Obsługa-Integration-Servera-w-konsoli) |
+| [**Obsługa Integration Servera w konsoli (sprawdzanie listy serwerów, startowanie i stopowanie serwera, deployment bar, zmiana   propertisów w bar)**](#obsługa-integration-servera-w-konsoli) |
 
 | TEAMTY DO ZREALIZOWANIA |
 | ------ |
