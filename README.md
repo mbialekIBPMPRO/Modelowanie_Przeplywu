@@ -15,7 +15,7 @@
 
 | TEAMTY DO ZREALIZOWANIA |
 | ------ |
-| Promote Property |
+| Promote Property | 
 | Operacje SELECT w ESQL |
 | Działanie parserów XMLNSC i JSON |
 
@@ -49,5 +49,9 @@
 ![](UDP/ss_1.JPG)
 ![](UDP/ss_2.JPG)
 ![](UDP/ss_3.JPG)
+
+[**^- Początek Pliku -^**](#modelowanie-przeplywu)
+
+# Promote Property
 
 [**^- Początek Pliku -^**](#modelowanie-przeplywu)
