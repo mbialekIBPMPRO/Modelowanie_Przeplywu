@@ -4,7 +4,7 @@
 
 - [x] **Long-lived variables (SHARED)**
 
-- [x]  [**User Defined Property**](#Obsługa-Integration-Servera-w-konsoli)
+- [x] **User Defined Property** 
 
 >Promote Property
 
@@ -16,7 +16,7 @@
 
 >Callable Flows
    
-- [x] **Obsługa Integration Servera w konsoli (sprawdzanie listy serwerów, startowanie i stopowanie serwera, deployment bar, zmiana   propertisów w bar)**
+- [x] [**Obsługa Integration Servera w konsoli (sprawdzanie listy serwerów, startowanie i stopowanie serwera, deployment bar, zmiana   propertisów w bar)**](#Obsługa-Integration-Servera-w-konsoli)
 
 >Działanie parserów XMLNSC i JSON
 
