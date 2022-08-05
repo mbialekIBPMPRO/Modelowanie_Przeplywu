@@ -7,6 +7,7 @@
 | **User Defined Property** |
 | **Wykorzystanie node Trace (do logowania)** |
 | **Callable Flows** [( TestCallableFlow.zip )](https://github.com/mbialekIBPMPRO/Modelowanie_Przeplywu/raw/demo/TestCallableFlow.zip)|
+| **Promote Property** |
 
 | TEAMTY ZAWARTE W README |
 | ------ |
