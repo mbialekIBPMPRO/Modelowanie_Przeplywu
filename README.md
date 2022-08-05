@@ -4,7 +4,7 @@
 
 - [x] **Long-lived variables (SHARED)**
 
-- [x] **User Defined Property** [here](#Obsługa-Integration-Servera-w-konsoli)
+- [x]  [**User Defined Property**](#Obsługa-Integration-Servera-w-konsoli)
 
 >Promote Property
 
