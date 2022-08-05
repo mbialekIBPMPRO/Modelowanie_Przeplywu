@@ -6,6 +6,7 @@
 | **Wysyłanie danych w nagłówkach HTTP** |
 | **User Defined Property** |
 | **Wykorzystanie node Trace (do logowania)** |
+| **Callable Flows** |
 
 | TEAMTY ZAWARTE W README |
 | ------ |
@@ -16,7 +17,6 @@
 | ------ |
 | Promote Property |
 | Operacje SELECT w ESQL |
-| Callable Flows |
 | Działanie parserów XMLNSC i JSON |
 
 # Obsługa Integration Servera w konsoli
