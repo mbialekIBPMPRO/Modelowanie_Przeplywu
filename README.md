@@ -8,7 +8,7 @@
 
 | TEAMTY ZAWARTE W README |
 | ------ |
-| **User Defined Property** |
+| [**User Defined Property**](#User-Defined-Property-(UDP) |
 | [**Obsługa Integration Servera w konsoli (sprawdzanie listy serwerów, startowanie i stopowanie serwera, deployment bar, zmiana   propertisów w bar)**](#Obsługa-Integration-Servera-w-konsoli) |
 
 | TEAMTY DO ZREALIZOWANIA |
@@ -43,3 +43,7 @@
 ![](ss_console/ss_11.JPG)
 
 [Początek Pliku -^](#Modelowanie-Przeplywu)
+
+# User Defined Property (UDP)
+![](UDP/ss_1.JPG)
+![](UDP/ss_2.JPG)
