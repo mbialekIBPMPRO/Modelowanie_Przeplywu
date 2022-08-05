@@ -5,7 +5,7 @@
 | **Long-lived variables (SHARED)** | 
 | **Wysyłanie danych w nagłówkach HTTP** |
 | **User Defined Property** |
-| Wykorzystanie node Trace (do logowania) |
+| **Wykorzystanie node Trace (do logowania)** |
 
 | TEAMTY ZAWARTE W README |
 | ------ |
