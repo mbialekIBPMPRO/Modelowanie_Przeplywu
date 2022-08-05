@@ -23,14 +23,14 @@
 # Obsługa Integration Servera w konsoli
 
 ### **Polecenia wykorzystane przeze mnie w konsoli:**
- - **Utworzenie węzła ->** mqsicreatebrokeR LOCAL_MB_NODE
-  - **Ustawienie portu administratora ->**  mqsichangeproperties LOCAL_MB_NODE -b webadmin -o HTTPConnector -n port -v 7601
-  - **Uruchomienie węzła ->**  mqsistart LOCAL_MB_NODE
+  - **Utworzenie węzła ->** mqsicreatebrokeR TEST_NODE
+  -  **sprawdzanie węzła ->** mqsicvp TEST_NODE
+  - **Ustawienie portu administratora ->**  mqsichangeproperties TEST_NODE -b webadmin -o HTTPConnector -n port -v 7602
+  - **Uruchomienie węzła ->**  mqsistart TEST_NODE
   -  **Wyświetlanie listy wszystkich węzłów ->**  mqsilist
-  - **Utworzenie serwer w węźle ->** mqsicreateexecutiongroup LOCAL_MB_NODE -e default -w 90
-  -  **sprawdzanie węzła ->** mqsicvp LOCAL_MB_NODE
-  -  **utworzenie pliku BAR. ->** mqsipackagebar -w C:\Users\Szef\IBM\ACET12\workspace -a mynewbarfile -y xsd_Lib
-  - **Deploy ->** mqsideploy -p 7601 -e default -a C:\Users\Szef\IBM\ACET12\workspace\BARfiles\mynewbarfile.bar
+  - **Utworzenie serwer w węźle ->** mqsicreateexecutiongroup TEST_NODE  -e default -w 90
+  -  **utworzenie pliku BAR. ->** mqsipackagebar -w C:\Users\Szef\IBM\ACET12\workspace -a mynewbarfile -k Praca_domowa_obsluga_bledow -y xsd_Lib
+  - **Deploy ->** mqsideploy -p 7602 -e default -a newTestFielBar.bar
   - **Sprawdzanie włąsciwości BAR. ->** mqsireadbar [-b  | -r  | -v] 
 
 ![](ss_console/ss_2.JPG)
