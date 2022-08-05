@@ -8,7 +8,7 @@
 
 | TEAMTY ZAWARTE W README |
 | ------ |
-| [**User Defined Property**](#User-Defined-Property-(UDP)) |
+| [**User Defined Property**](#user-defined-property-udp) |
 | [**Obsługa Integration Servera w konsoli (sprawdzanie listy serwerów, startowanie i stopowanie serwera, deployment bar, zmiana   propertisów w bar)**](#Obsługa-Integration-Servera-w-konsoli) |
 
 | TEAMTY DO ZREALIZOWANIA |
