@@ -9,6 +9,7 @@
 | **Callable Flows** [( TestCallableFlow.zip )](https://github.com/mbialekIBPMPRO/Modelowanie_Przeplywu/raw/demo/TestCallableFlow.zip)|
 | **Promote Property** |
 | **Operacje SELECT w ESQL** |
+| **Działanie parserów XMLNSC i JSON** |
 
 | TEAMTY ZAWARTE W README |
 | ------ |
@@ -16,10 +17,6 @@
 | [**Promote Property**](#promote-property) | 
 | [**Obsługa Integration Servera w konsoli (sprawdzanie listy serwerów, startowanie i stopowanie serwera, deployment bar, zmiana   propertisów w bar)**](#obsługa-integration-servera-w-konsoli) |
 
-
-| TEAMTY DO ZREALIZOWANIA |
-| ------ |
-| Działanie parserów XMLNSC i JSON |
 
 # Obsługa Integration Servera w konsoli
 
