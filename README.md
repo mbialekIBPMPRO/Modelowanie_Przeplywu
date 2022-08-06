@@ -8,6 +8,7 @@
 | **Wykorzystanie node Trace (do logowania)** |
 | **Callable Flows** [( TestCallableFlow.zip )](https://github.com/mbialekIBPMPRO/Modelowanie_Przeplywu/raw/demo/TestCallableFlow.zip)|
 | **Promote Property** |
+| **Operacje SELECT w ESQL** |
 
 | TEAMTY ZAWARTE W README |
 | ------ |
@@ -18,7 +19,6 @@
 
 | TEAMTY DO ZREALIZOWANIA |
 | ------ |
-| Operacje SELECT w ESQL |
 | Działanie parserów XMLNSC i JSON |
 
 # Obsługa Integration Servera w konsoli
